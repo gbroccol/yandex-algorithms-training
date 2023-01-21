@@ -1,4 +1,4 @@
-# Решения и подсказки к [тренировке по алгоритмам от Яндекса](https://yandex.ru/yaintern/algorithm-training)
+# Решения к [тренировке по алгоритмам от Яндекса](https://yandex.ru/yaintern/algorithm-training)
 
 ## Содержание (Дивизион В)
 
