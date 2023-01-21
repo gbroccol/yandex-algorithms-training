@@ -1,7 +1,5 @@
 package org.example;
 
-import org.junit.Test;
-
 import java.util.stream.Stream;
 
 import org.junit.jupiter.params.ParameterizedTest;
