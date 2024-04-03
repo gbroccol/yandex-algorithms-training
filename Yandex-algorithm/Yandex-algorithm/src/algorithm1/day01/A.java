@@ -27,7 +27,6 @@ package algorithm1.day01;
 // Формат вывода
 // Выходной файл должен содержать одно целое число — температуру, которая установится в комнате через час.
 
-import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class A {

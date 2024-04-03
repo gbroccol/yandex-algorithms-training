@@ -11,7 +11,6 @@ package algorithm1.day01;
 
 // Треугольник существует только тогда, когда сумма любых двух его сторон больше третьей
 
-import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class B {
