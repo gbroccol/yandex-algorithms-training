@@ -49,4 +49,36 @@ public class I {
 
         return "NO";
     }
+
+    // вариант из разбора д/з
+    public static String func2(int a, int b, int c, int d, int e) {
+
+        if (a > b) {
+            int tmp = a;
+            a = b;
+            b = tmp;
+        }
+
+        if (b > c) {
+            int tmp = b;
+            b = c;
+            c = tmp;
+        }
+
+        if (a > b) {
+            int tmp = a;
+            a = b;
+            b = tmp;
+        }
+
+        if (d > e) {
+            int tmp = d;
+            d = e;
+            e = tmp;
+        }
+
+        if (a <= d && b <= e) return "YES";
+
+        return "NO";
+    }
 }
